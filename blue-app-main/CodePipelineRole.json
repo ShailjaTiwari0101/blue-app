@@ -176,8 +176,8 @@
                 "logs:PutLogEvents"
             ],
             "Resource": [
-                "arn:aws:logs:ap-south-1:605463757083:log-group:/aws/codepipeline/DemoPipeline",
-                "arn:aws:logs:ap-south-1:605463757083:log-group:/aws/codepipeline/DemoPipeline:log-stream:*"
+                "arn:aws:logs:ap-south-1:471546218298:log-group:/aws/codepipeline/DemoPipeline",
+                "arn:aws:logs:ap-south-1:471546218298:log-group:/aws/codepipeline/DemoPipeline:log-stream:*"
             ]
         }
     ],
